@@ -37,8 +37,8 @@ Il permet aux utilisateurs de concevoir des notes de calcul professionnelles, sa
     - requests: 2.32.3
     - ourocode (développé par Anthony PARISOT)
 
-📄 Licence
-Distribué sous licence GPL3.
+## 📄 Licence
+Distribué sous licence GPL-3.0.
     
 # Créer et développer par Anthony PARISOT.
 Langue: FR
