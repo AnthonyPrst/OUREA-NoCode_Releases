@@ -17,7 +17,7 @@ Il permet aux utilisateurs de concevoir des notes de calcul professionnelles, sa
 ---
 
 ## 📦 Installation
- - [https://ourea-structure.fr/telechargement]([url](https://ourea-structure.fr/telechargement))
+ - [https://ourea-structure.fr/telechargement](https://ourea-structure.fr/telechargement)
 
 ## 💻 Utilisation
 - Démarrez l'interface
